@@ -1,6 +1,6 @@
 FROM nimbix/ubuntu-cuda
 
-RUN echo "chenfei app test2" > ~/chenfei.app
+RUN echo "chenfei app test3" > ~/chenfei.app
 
 ADD ./NAE/help.html /etc/NAE/help.html
 
